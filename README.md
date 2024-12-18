@@ -1,3 +1,119 @@
+---
+---
+
+<!-- Single Line Animation -->
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100000&color=FF5733&vCenter=true&width=1000&lines=🐍+Watch+the+Contribution+Snake+in+Action!" 
+         alt="Contribution Snake Header">
+  </a>
+</p>
+
+<!-- Combined Animation for Other Lines -->
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid+👉" 
+         alt="Progress Animation">
+  </a>
+</p>
+
+<!-- Snake Animation (Dark Mode Only) -->
+<p align="center">
+    <img src="https://github.com/CodderPrince/CodderPrince/blob/output/github-contribution-grid-snake-dark.svg" 
+         alt="GitHub Snake Animation Dark Mode" style="margin: 10px;">
+</p>
+
+
+
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Single Line Animation -->
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100000&color=FF5733&vCenter=true&width=1000&lines=🐍+Watch+the+Contribution+Snake+in+Action!" 
+         alt="Contribution Snake Header">
+  </a>
+</p>
+
+<!-- Combined Animation for Other Lines -->
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid+👉" 
+         alt="Progress Animation">
+  </a>
+</p>
+
+<!-- Snake Animations -->
+<p align="center">
+    <!-- Light Mode Snake -->
+    <img src="https://github.com/CodderPrince/CodderPrince/blob/output/github-contribution-grid-snake.svg" 
+         alt="GitHub Snake Animation" style="margin: 10px;">
+    <!-- Dark Mode Snake -->
+    <img src="https://github.com/CodderPrince/CodderPrince/blob/output/github-contribution-grid-snake-dark.svg" 
+         alt="GitHub Snake Animation Dark Mode" style="margin: 10px;">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&vCenter=true&width=1000&lines=🐍+Watch+the+Contribution+Snake+in+Action!;Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid+👉" 
+         alt="Contribution Snake Animation">
+  </a>
+</p>
+
+<p align="center">
+    <!-- Light Mode Snake -->
+    <img src="https://github.com/CodderPrince/CodderPrince/blob/output/github-contribution-grid-snake.svg" 
+         alt="GitHub Snake Animation" style="margin: 10px;">
+    <!-- Dark Mode Snake -->
+    <img src="https://github.com/CodderPrince/CodderPrince/blob/output/github-contribution-grid-snake-dark.svg" 
+         alt="GitHub Snake Animation Dark Mode" style="margin: 10px;">
+</p>
+
+
+
+<div style="width: fit-content; transform: scale(1.5); transform-origin: top left;">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=CodderPrince&bg_color=2e1542&color=fbff00&line=00ffe1&point=ff00ae&area=true&hide_border=true&theme=dark" 
+      alt="GitHub Activity Graph">
+</div>
+
 
 
 
