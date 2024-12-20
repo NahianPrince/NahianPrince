@@ -1,3 +1,47 @@
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayshal-bin-amir-002&bg_color=1e212b&color=ff7f50&line=87ceeb&point=ff4500&area=true&hide_border=true&theme=dark" 
+     alt="GitHub Activity Graph" 
+     style="max-width: 100%; height: 400px; border-radius: 50px;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anupam2570632&bg_color=262626&color=ffd700&line=00ff00&point=ff6347&area=true&hide_border=true&theme=dark" 
+     alt="GitHub Activity Graph" 
+     style="max-width: 100%; height: 400px; border-radius: 50px;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rshrakib&bg_color=2c2f33&color=00ffff&line=ff1493&point=ffa500&area=true&hide_border=true&theme=dark" 
+     alt="GitHub Activity Graph" 
+     style="max-width: 100%; height: 400px; border-radius: 50px;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubasshir14&bg_color=3e4147&color=32cd32&line=1e90ff&point=dc143c&area=true&hide_border=true&theme=dark" 
+     alt="GitHub Activity Graph" 
+     style="max-width: 100%; height: 400px; border-radius: 50px;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Safaet-Rabbi&bg_color=141414&color=ff69b4&line=00bfff&point=ff6347&area=true&hide_border=true&theme=dark" 
+     alt="GitHub Activity Graph" 
+     style="max-width: 100%; height: 400px; border-radius: 50px;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shithi14&bg_color=1b1b2f&color=f1c40f&line=e74c3c&point=1abc9c&area=true&hide_border=true&theme=dark" 
+     alt="GitHub Activity Graph" 
+     style="max-width: 100%; height: 400px; border-radius: 50px;">
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodderPrince&bg_color=2e1542&color=fbff00&line=00ffe1&point=ff00ae&area=true&hide_border=true&theme=dark" 
+     alt="GitHub Activity Graph" 
+     style="max-width: 100%; height: 400px; border-radius: 50px;">
+
+
+     
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodderPrince&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
 ![GitHub Snake Animation](https://github.com/Shithi14/Shithi14/blob/output/github-contribution-grid-snake.svg)
 
 
